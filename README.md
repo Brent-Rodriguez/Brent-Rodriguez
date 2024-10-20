@@ -60,8 +60,6 @@ I'm a Software Engineer and Cybersecurity Analyst committed to building secure a
 <!-- - [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](twitter-handle) -->
 <!-- - [![Personal Website](https://img.shields.io/badge/-Website-4B4B4B?style=flat-square&logo=appveyor&logoColor=white)](website) -->
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](your-twitter-handle)
-[![Personal Website](https://img.shields.io/badge/-Website-4B4B4B?style=flat-square&logo=appveyor&logoColor=white)](your-website)
 
 ## 📜 Certifications
 
