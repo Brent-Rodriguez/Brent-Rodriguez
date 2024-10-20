@@ -40,13 +40,13 @@ I'm a Software Engineer and Cybersecurity Analyst with a passion for building se
 ## 📂 Projects
 
 ### [Project Title 1](link-to-project)
-- Brief description of the project and your role.
+- Brief description of the project.
 
 ### [Project Title 2](link-to-project)
-- Brief description of the project and your role.
+- Brief description of the project.
 
 ### [Project Title 3](link-to-project)
-- Brief description of the project and your role.
+- Brief description of the project.
 
 ---
 
