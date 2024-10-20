@@ -50,7 +50,7 @@ I'm a Software Engineer and Cybersecurity Analyst with a passion for building se
 
 ## 📫 Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/brent-rodriguez)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/brent-rodriguez)
 <!-- - [Twitter](twitter-handle) -->
 <!-- - [Personal Website/Blog](website) -->
 
