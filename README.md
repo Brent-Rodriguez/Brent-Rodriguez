@@ -1,59 +1,69 @@
 # 👋 Hello, I'm @brent-rodirguez
 
-I'm a Software Engineer and Cybersecurity Analyst with a passion for building secure and efficient systems. I specialize in [your specialties, e.g., full-stack development, network security, etc.].
+I'm a Software Engineer and Cybersecurity Analyst with a passion for building secure and efficient systems. I specialize in full-stack development, Cyber, and Network Security.
 
 ---
 
 ## 💼 About Me
 
-- 🔭 Currently working on [Current Project/Focus]
-<!-- - 🌱 I’m currently learning [New Technology or Skill] -->
+- 🔭 Currently working on Cyber Security Certifications
+- 🌱 I’m currently learning Secuity Plus
 <!-- - 👯 I’m looking to collaborate on [Type of Projects] -->
 <!-- - 📫 How to reach me: [your.email@example.com] -->
 <!-- - ⚡ Fun fact: [A fun or interesting fact about you] -->
 
 ---
 
+
+## 🎓 Education
+
+- **Bachelor of Science**, Cybersecurity Technology  
+  University of Maryland Global Campus, 2024
+
+---
+
 ## 🛠️ Technologies & Tools
 
-- **Languages:** [e.g., Python, Java, C++]
-- **Frameworks:** [e.g., React, Django]
-- **Tools:** [e.g., Git, Docker, Jenkins]
-- **Cybersecurity Tools:** [e.g., Wireshark, Metasploit]
+- **Languages:** Python, Java, JavaScript.
+- **Frameworks:** React.
+- **Tools:** Git, Docker.
+- **Cybersecurity Tools:** Wireshark, Metasploit.
 
 ---
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ---
 
 ## 📂 Projects
 
-### [Project Title 1](link-to-your-project)
+### [Project Title 1](link-to-project)
 - Brief description of the project and your role.
 
-### [Project Title 2](link-to-your-project)
+### [Project Title 2](link-to-project)
 - Brief description of the project and your role.
 
-### [Project Title 3](link-to-your-project)
+### [Project Title 3](link-to-project)
 - Brief description of the project and your role.
 
 ---
 
 ## 📫 Connect with Me
 
-- [LinkedIn](your-linkedin-profile)
-- [Twitter](your-twitter-handle)
-- [Personal Website/Blog](your-website)
+- [LinkedIn](www.linkedin.com/in/brent-rodriguez)
+<!-- - [Twitter](twitter-handle) -->
+<!-- - [Personal Website/Blog](website) -->
 
 ---
 
 ## 📜 Certifications
 
-- [Certification Name] - [Issuing Organization]
-- [Certification Name] - [Issuing Organization]
+- Computer Networking -  University of Maryland Global Campus.
+- Cyber Threat Hunting -  University of Maryland Global Campus.
+- Software Developer -  Southern Careers Institute.
+- Cyber Security -  Southern Careers Institute.
 
 ---
 
