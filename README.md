@@ -56,7 +56,7 @@ I'm a Software Engineer and Cybersecurity Analyst committed to building secure a
 
 ## 📫 Connect with Me
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/brent-rodriguez)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brent-rodriguez)
 <!-- - [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](twitter-handle) -->
 <!-- - [![Personal Website](https://img.shields.io/badge/-Website-4B4B4B?style=flat-square&logo=appveyor&logoColor=white)](website) -->
 
