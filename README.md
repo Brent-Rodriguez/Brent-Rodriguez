@@ -1,8 +1,7 @@
-# 👋 Hello, I'm @brent-rodriguez
+# 👋 Hello, I'm Brent S. Rodriguez
 
 I'm a Software Engineer and Cybersecurity Analyst with a passion for building secure and efficient systems. I specialize in full-stack development, Cyber, and Network Security.
 
----
 
 ## 💼 About Me
 
@@ -12,7 +11,6 @@ I'm a Software Engineer and Cybersecurity Analyst with a passion for building se
 <!-- - 📫 How to reach me: [your.email@example.com] -->
 <!-- - ⚡ Fun fact: [A fun or interesting fact about you] -->
 
----
 
 
 ## 🎓 Education
@@ -20,7 +18,7 @@ I'm a Software Engineer and Cybersecurity Analyst with a passion for building se
 - **Bachelor of Science**, Cybersecurity Technology  
   University of Maryland Global Campus, 2024
 
----
+
 
 ## 🛠️ Technologies & Tools
 
@@ -29,13 +27,13 @@ I'm a Software Engineer and Cybersecurity Analyst with a passion for building se
 - **Tools:** Git, Docker.
 - **Cybersecurity Tools:** Wireshark, Metasploit.
 
----
+
 
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brent-rodriguez&show_icons=true&theme=radical)
 
----
+
 
 ## 📂 Projects
 
@@ -48,7 +46,7 @@ I'm a Software Engineer and Cybersecurity Analyst with a passion for building se
 ### [Project Title 3](link-to-project)
 - Brief description of the project.
 
----
+
 
 ## 📫 Connect with Me
 
@@ -56,7 +54,7 @@ I'm a Software Engineer and Cybersecurity Analyst with a passion for building se
 <!-- - [Twitter](twitter-handle) -->
 <!-- - [Personal Website/Blog](website) -->
 
----
+
 
 ## 📜 Certifications
 
