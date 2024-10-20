@@ -1,4 +1,4 @@
-# 👋 Hello, I'm @brent-rodirguez
+# 👋 Hello, I'm @brent-rodriguez
 
 I'm a Software Engineer and Cybersecurity Analyst with a passion for building secure and efficient systems. I specialize in full-stack development, Cyber, and Network Security.
 
@@ -7,7 +7,7 @@ I'm a Software Engineer and Cybersecurity Analyst with a passion for building se
 ## 💼 About Me
 
 - 🔭 Currently working on Cyber Security Certifications
-- 🌱 I’m currently learning Secuity Plus
+- 🌱 I’m currently Studying Security +
 <!-- - 👯 I’m looking to collaborate on [Type of Projects] -->
 <!-- - 📫 How to reach me: [your.email@example.com] -->
 <!-- - ⚡ Fun fact: [A fun or interesting fact about you] -->
@@ -33,7 +33,7 @@ I'm a Software Engineer and Cybersecurity Analyst with a passion for building se
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brent-rodriguez&show_icons=true&theme=radical)
 
 ---
 
