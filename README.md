@@ -32,26 +32,37 @@ I'm a Software Engineer and Cybersecurity Analyst committed to building secure a
 - **Tools:** Git, Docker.
 - **Cybersecurity Tools:** Wireshark, Metasploit.
 
+---
+
+## 📂 Projects
+
+### 🚀 **Cybersecurity Projects**
+| Project Title           | Description                                      | Tech Stack                                |
+|-------------------------|--------------------------------------------------|-------------------------------------------|
+| [Project Title 1](link-to-project) | A security-focused application that simulates a real-world cyber attack and defense scenario. | Wireshark, Metasploit, Python, Linux     |
+| [Project Title 2](link-to-project) | A network security monitoring tool designed to detect and respond to suspicious activity in real-time. | Python, Git, Splunk, Docker               |
+
+---
+
+### 💻 **Software Engineering Projects**
+| Project Title           | Description                                      | Tech Stack                                |
+|-------------------------|--------------------------------------------------|-------------------------------------------|
+| [Project Title 1](link-to-project) | A full-stack web application for managing tasks and schedules with user authentication. | React, Node.js, MongoDB, JavaScript       |
+| [Project Title 2](link-to-project) | A mobile app designed to help users track their fitness goals and progress. | Java, Android SDK, Firebase               |
+
+---
+
+### 📊 **Data Analysis Projects**
+| Project Title           | Description                                      | Tech Stack                                |
+|-------------------------|--------------------------------------------------|-------------------------------------------|
+| [Project Title 1](link-to-project) | A data visualization tool that aggregates and displays COVID-19 statistics across various regions. | Python, Pandas, Matplotlib, Seaborn       |
+| [Project Title 2](link-to-project) | An analysis of e-commerce sales data to identify trends and predict future product performance. | R, SQL, Tableau                          |
+
+---
 
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brent-rodriguez&show_icons=true&theme=radical)
-
-
-## 📂 Projects
-
-### [Project Title 1](link-to-project)
-- **Description:** A brief overview of the project.
-- **Tech Stack:** 
-
-### [Project Title 2](link-to-project)
-- **Description:** A brief overview of the project.
-- **Tech Stack:** 
-
-### [Project Title 3](link-to-project)
-- **Description:** A brief overview of the project.
-- **Tech Stack:** 
-
 
 
 ## 📫 Connect with Me
