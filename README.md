@@ -39,7 +39,7 @@ I'm a Software Engineer and Cybersecurity Analyst committed to building secure a
 ### 🚀 **Cybersecurity Projects**
 | Project Title           | Description                                      | Tech Stack                                |
 |-------------------------|--------------------------------------------------|-------------------------------------------|
-| [Project Title 1](link-to-project) | Not Available | Wireshark, Metasploit, Python, Linux     |
+| [Threat Hunting](https://github.com/Brent-Rodriguez/Threat_Hunting_CTF) | Not Available | Docker   |
 | [Project Title 2](link-to-project) | Not Available | Python, Git, Splunk, Docker               |
 
 ---
