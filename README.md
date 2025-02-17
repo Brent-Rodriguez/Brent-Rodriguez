@@ -47,7 +47,7 @@ I'm a Software Engineer and Cybersecurity Analyst committed to building secure a
 ### 💻 **Software Engineering Projects**
 | Project Title           | Description                                      | Tech Stack                                |
 |-------------------------|--------------------------------------------------|-------------------------------------------|
-| [Project Title 1](link-to-project) | Not Available | React, Node.js, MongoDB, JavaScript       |
+| [Exodus Application](https://github.com/Brent-Rodriguez/Exodus_Application) | In Development | React, Next.JS, JavaScript       |
 | [Project Title 2](link-to-project) | Not Available | Java, Android SDK, Firebase               |
 
 ---
