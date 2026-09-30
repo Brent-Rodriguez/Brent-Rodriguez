@@ -1,87 +1,95 @@
-# 👋 Hello, I'm Brent S. Rodriguez
+<div align="center">
 
-I'm a Software Engineer and Cybersecurity Analyst committed to building secure and efficient systems. I specialize in full-stack development, cyber, and network security.
+# Hi, I'm [Your Name] 
+### Software Engineer & Cybersecurity Professional
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Securing%20%26%20Building-blue?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20Cybersecurity-critical?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+</p>
 
-## 💼 About Me
-
-- 🔭 Currently working on Cyber Security Certifications
-- 🌱 I’m currently Studying Security +
-<!-- - 👯 I’m looking to collaborate on [Type of Projects] -->
-<!-- - 📫 How to reach me: [your.email@example.com] -->
-<!-- - ⚡ Fun fact: [A fun or interesting fact about you] -->
-
-## 🎓 Education
-
-- **Bachelor of Science**, Cybersecurity Technology  
-  University of Maryland Global Campus, 2024
-
-
-## 🧩 Skills
-
-- Software Development
-- Cybersecurity Analysis
-- Incident Response
-- Threat Modeling
-
-
-## 🛠️ Technologies & Tools
-
-- **Languages:** Python, Java, JavaScript.
-- **Frameworks:** React.
-- **Tools:** Git, Docker.
-- **Cybersecurity Tools:** Wireshark, Metasploit.
+*Dedicated to engineering resilient, high-performance applications and implementing proactive defense strategies to safeguard digital infrastructure.*
 
 ---
 
-## 📂 Projects
+</div>
 
-### 🚀 **Cybersecurity Projects**
-| Project Title           | Description                                      | Tech Stack                                |
-|-------------------------|--------------------------------------------------|-------------------------------------------|
-| [Threat Hunting](https://github.com/Brent-Rodriguez/Threat_Hunting_CTF) | In Development | Docker, Greylog, OS_Query, Suricata, Bash   |
-| [Project Title 2](link-to-project) | Not Available | Python, Git, Splunk, Docker               |
+## 💼 Professional Summary
+
+As a multidisciplinary technologist with a Bachelor's in Cybersecurity Technology from the University of Maryland Global Campus, I bridge the gap between robust application development and rigorous information security. I build scalable software solutions with security embedded directly into the development lifecycle (DevSecOps), ensuring code efficiency alongside threat resistance.
 
 ---
 
-### 💻 **Software Engineering Projects**
-| Project Title           | Description                                      | Tech Stack                                |
-|-------------------------|--------------------------------------------------|-------------------------------------------|
-| [Exodus Application](https://github.com/Brent-Rodriguez/Exodus_Application) | In Development | React, Next.JS, JavaScript       |
-| [Project Title 2](link-to-project) | Not Available | Java, Android SDK, Firebase               |
+## 🛠️ Technical Expertise
+
+| Domain | Core Technologies & Frameworks |
+| :--- | :--- |
+| **Languages** | Python, Java, JavaScript, Bash, R, SQL |
+| **Frontend & Backend** | React, Next.js, Android SDK |
+| **DevOps & Infrastructure** | Git, Docker, Firebase, Next.js |
+| **Security & Analysis** | Wireshark, Metasploit, Splunk, Greylog, OSQuery, Suricata |
+| **Methodologies** | Threat Modeling, Incident Response, Vulnerability Assessment |
 
 ---
 
-### 📊 **Data Analysis Projects**
-| Project Title           | Description                                      | Tech Stack                                |
-|-------------------------|--------------------------------------------------|-------------------------------------------|
-| [Project Title 1](link-to-project) | Not Available | Python, Pandas, Matplotlib, Seaborn       |
-| [Project Title 2](link-to-project) | Not Available | R, SQL, Tableau                          |
+## 📂 Featured Projects
+
+### 🔒 Cybersecurity & Defense
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Threat Hunting CTF](https://github.com/yourusername/Threat_Hunting_CTF)** | Simulated threat intelligence gathering, log analysis, and incident hunting environment. *(In Development)* | Docker, Greylog, OSQuery, Suricata, Bash |
+| **[Security Analytics Platform](link-to-project)** | Advanced log aggregation and automated alert pipeline for enterprise threat detection. | Python, Git, Splunk, Docker |
+
+### 💻 Software Engineering
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Exodus Application](https://github.com/yourusername/Exodus_Application)** | Full-stack modern web application focused on high availability and clean architecture. *(In Development)* | React, Next.js, JavaScript |
+| **[Mobile Utility Tool](link-to-project)** | Cross-platform mobile utility designed for real-time task management and cloud data synchronization. | Java, Android SDK, Firebase |
+
+### 📊 Data Analytics
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Exploratory Data Pipeline](link-to-project)** | Automated data extraction and visual reporting dashboard for system metrics. | Python, Pandas, Matplotlib, Seaborn |
+| **[Enterprise SQL Reporting](link-to-project)** | Relational database optimization and executive dashboard reporting suite. | R, SQL, Tableau |
 
 ---
 
-## 📈 GitHub Stats
+## 🎓 Education & Certifications
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brent-rodriguez&show_icons=true&theme=radical)
+### **Education**
+* **Bachelor of Science in Cybersecurity Technology**  
+  University of Maryland Global Campus *(2024)*
 
-
-## 📫 Connect with Me
-
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brent-rodriguez)
-<!-- - [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](twitter-handle) -->
-<!-- - [![Personal Website](https://img.shields.io/badge/-Website-4B4B4B?style=flat-square&logo=appveyor&logoColor=white)](website) -->
-
-
-## 📜 Certifications
-
-- Computer Networking -  University of Maryland Global Campus.
-- Cyber Threat Hunting -  University of Maryland Global Campus.
-- Software Developer -  Southern Careers Institute.
-- Cyber Security -  Southern Careers Institute.
+### **Certifications**
+* **Computer Networking** — University of Maryland Global Campus
+* **Cyber Threat Hunting** — University of Maryland Global Campus
+* **Software Developer** — Southern Careers Institute
+* **Cyber Security** — Southern Careers Institute
 
 ---
 
-Thank you for visiting my profile! 😊
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<div align="center">
+  <i>Thank you for visiting my profile! Let's build something secure together. 🚀</i>
+</div>
 
 
 <!---
