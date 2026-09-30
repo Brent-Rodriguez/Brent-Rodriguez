@@ -23,7 +23,7 @@
 <table width="100%">
   <tr>
     <td width="60%">
-      I am a versatile technologist bridging the gap between rapid software engineering and robust system security. My work revolves around developing scalable full-stack applications, designing automated DevSecOps pipelines, and conducting proactive threat hunting.
+      Results-driven Software Engineer and Security Practitioner specializing in building resilient, scalable applications and secure-by-design infrastructure. I integrate security across the entire development lifecycle, combining full-stack development with proactive threat detection and automated DevSecOps pipelines.
       <br><br>
       🎓 <b>Education:</b> B.S. in Cybersecurity Technology — University of Maryland Global Campus
     </td>
