@@ -1,143 +1,86 @@
 <div align="center">
-Hi, I'm [Your Name]
-Software Engineer | Cybersecurity Engineer | DevSecOps
-<p align="center"> <img src="https://img.shields.io/badge/Focus-Software%20Engineering-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Focus-Cybersecurity-critical?style=for-the-badge" /> <img src="https://img.shields.io/badge/Focus-DevSecOps-purple?style=for-the-badge" /> </p>
+[Your Name]
+Software Engineer • Cybersecurity • DevSecOps
 
-Building secure, scalable software and engineering resilient systems.
+Building software. Securing systems. Automating infrastructure.
 
-I specialize in combining software engineering, cybersecurity, and DevSecOps principles to develop applications and infrastructure with security integrated throughout the development lifecycle.
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> </p>
+
+LinkedIn
+ • Email
 
 </div>
-👨‍💻 Professional Summary
+About
 
-I am a Software Engineer and Cybersecurity Professional with a multidisciplinary background spanning software development, cybersecurity, networking, and security operations.
+Software Engineer focused on secure application development, cybersecurity, and DevSecOps.
 
-I focus on designing and developing reliable software while incorporating security throughout the Software Development Life Cycle (SDLC). My approach combines software engineering practices with security engineering principles, including secure coding, vulnerability management, threat detection, automation, and infrastructure security.
+I build applications, automate infrastructure, and develop security-focused projects across the software and cybersecurity lifecycle.
 
-My goal is to build systems that are scalable, maintainable, observable, and secure by design.
+BS Cybersecurity Technology — University of Maryland Global Campus
 
-🛠️ Technical Skills
-Domain	Technologies & Skills
-Programming	Python, Java, JavaScript, Bash, R, SQL
-Software Engineering	React, Next.js, Android SDK, REST APIs, Application Architecture
-Cybersecurity	Threat Hunting, Vulnerability Assessment, Incident Response, Security Monitoring
-Security Engineering	Network Security, IAM, Security Controls, Hardening, Threat Modeling
-DevSecOps	CI/CD Security, Security Automation, Secure SDLC, DevSecOps Practices
-Cloud & Infrastructure	Docker, Firebase, Linux, Infrastructure as Code
-Security Tools	Wireshark, Metasploit, Splunk, Graylog, OSQuery, Suricata
-Networking	TCP/IP, Routing & Switching, Network Troubleshooting, Network Security
-Data & Analytics	Pandas, Matplotlib, Seaborn, SQL, Tableau
-🔐 Cybersecurity & Security Engineering
+Featured Projects
+🔐 Threat Hunting CTF
 
-My cybersecurity interests and technical focus include:
+Threat Detection • SIEM • Endpoint Security
 
-Threat Detection & Threat Hunting
+Hands-on security lab for threat hunting, log analysis, endpoint monitoring, and incident investigation.
 
-Vulnerability Management
+Docker Graylog OSQuery Suricata Bash
 
-Incident Response
+View Project →
 
-Security Monitoring & SIEM
+💻 Exodus Application
 
-Network Security
+Full-Stack Software Engineering
 
-Application Security
+Modern full-stack application focused on clean architecture, scalability, and secure development.
 
-Identity & Access Management
+React Next.js JavaScript
 
-Security Automation
+View Project →
 
-Threat Modeling
+🛡️ Security Analytics Platform
 
-Secure Configuration & System Hardening
+Security Monitoring • Automation
 
-Penetration Testing
+Security analytics platform for centralized logging, detection, and automated security analysis.
 
-Digital Forensics Fundamentals
+Python Splunk Docker Git
 
-Security Analytics
+View Project →
+
+Technical Skills
+
+Languages
+Python • Java • JavaScript • Bash • SQL • R
+
+Software Engineering
+React • Next.js • REST APIs • Android • Git • Docker
+
+Cybersecurity
+Threat Hunting • Vulnerability Management • Incident Response • Network Security • Penetration Testing
 
 DevSecOps
+CI/CD Security • Security Automation • Secure SDLC • Infrastructure as Code
 
-💻 Software Engineering
+Security Tools
+Wireshark • Metasploit • Splunk • Graylog • OSQuery • Suricata
 
-I approach software development with an emphasis on:
+Certifications
 
-Clean and maintainable architecture
+CompTIA Security+ • CompTIA PenTest+ • CompTIA CySA+
 
-Secure software development
+Focus
+Software Engineering
+        +
+Cybersecurity
+        +
+DevSecOps
+        ↓
+Secure & Scalable Systems
 
-API and application development
-
-Performance and scalability
-
-Automated testing
-
-Version control and collaborative development
-
-Containerization
-
-CI/CD
-
-Infrastructure automation
-
-Security throughout the SDLC
-
-📂 Featured Projects
-🔒 Cybersecurity & Defense
-Project	Description	Technologies
-Threat Hunting CTF
-	Security lab focused on threat detection, log analysis, endpoint monitoring, and incident investigation. (In Development)	Docker, Graylog, OSQuery, Suricata, Bash
-Security Analytics Platform	Security monitoring platform designed to aggregate logs, identify suspicious activity, and support automated security analysis.	Python, Splunk, Docker, Git
-💻 Software Engineering
-Project	Description	Technologies
-Exodus Application
-	Full-stack application focused on scalable architecture, maintainability, and secure application development. (In Development)	React, Next.js, JavaScript
-Mobile Utility Tool	Mobile application designed for real-time task management and cloud-based data synchronization.	Java, Android SDK, Firebase
-📊 Data & Analytics
-Project	Description	Technologies
-Exploratory Data Pipeline	Automated data processing and visualization pipeline for analyzing system and operational metrics.	Python, Pandas, Matplotlib, Seaborn
-Enterprise SQL Reporting	SQL-based reporting and analytics solution focused on relational data analysis and business intelligence.	SQL, R, Tableau
-🎓 Education & Certifications
-Education
-
-Bachelor of Science in Cybersecurity Technology
-University of Maryland Global Campus — 2024
-
-Certifications & Training
-
-CompTIA Security+
-
-CompTIA PenTest+
-
-CompTIA CySA+
-
-Computer Networking — University of Maryland Global Campus
-
-Cyber Threat Hunting — University of Maryland Global Campus
-
-Software Developer — Southern Careers Institute
-
-Cyber Security — Southern Careers Institute
-
-🧰 Engineering & Security Philosophy
-
-Build securely. Automate intelligently. Defend continuously.
-
-I believe security should not be treated as an afterthought. By integrating security practices into development, infrastructure, and operations, engineering teams can build systems that are both productive and resilient.
-
-My interests sit at the intersection of:
-
-Software Engineering × Cybersecurity × DevSecOps × Cloud × Automation
-
-📈 GitHub Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" /> </p>
-📫 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/yourusername"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p> <div align="center">
-Thanks for visiting my profile.
-
-Let's build secure, scalable technology.
-
+<div align="center">
+Build • Secure • Automate
 </div>
 
 <!---
