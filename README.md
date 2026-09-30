@@ -72,9 +72,9 @@
 
 ## 🏆 Certifications & Credentialing
 
-- 🛡️ **CompTIA Security+** — Professional Certification
-- 🔍 **CompTIA PenTest+** — Professional Certification
-- 📊 **CompTIA CySA+** — Professional Certification
+- 🛡️ **CompTIA Security+**
+- 🔍 **CompTIA PenTest+**
+- 📊 **CompTIA CySA+**
 - 🚀 **DevSecOps Path** — TryHackMe
 
 ---
