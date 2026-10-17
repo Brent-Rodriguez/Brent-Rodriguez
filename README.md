@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Brent Rodriguez
+# ⚡ Brent S. Rodriguez
 
 ### **Software Engineer • Cybersecurity Specialist • DevSecOps Architect**
 
@@ -28,7 +28,7 @@
 ## ⚡ Mission Control (`whoami`)
 
 ```yaml
-Operator: Brent Rodriguez
+Operator: Brent S. Rodriguez
 Role: Software Engineer & Cybersecurity Practitioner
 Education: B.S. Cybersecurity Technology @ University of Maryland Global Campus
 Focus Area: Secure SDLC | Automated CI/CD Gates | Full-Stack Resilience
