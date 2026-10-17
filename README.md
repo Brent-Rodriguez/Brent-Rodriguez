@@ -1,30 +1,12 @@
-Here is the restructured, clean Markdown code containing **all sections** (Header, Mission Control, Featured Projects Table with HTML, Technical Arsenal, Engineering Philosophy, GitHub Activity, and Footer) in a single block:
-
-```markdown
-<div align="center">
-
 # ⚡ Brent S. Rodriguez
 
 ### **Software Engineer • Cybersecurity Specialist • DevSecOps Architect**
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Building+Resilient+%26+Scalable+Software;Shifting+Security+Left+in+the+SDLC;Automating+DevSecOps+%26+Cloud+Security;Hardening+Infrastructure+%26+Threat+Hunting" alt="Typing SVG" />
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Building+Resilient+%26+Scalable+Software;Shifting+Security+Left+in+the+SDLC;Automating+DevSecOps+%26+Cloud+Security;Hardening+Infrastructure+%26+Threat+Hunting)
 
-<!-- Social & Contact Badges -->
-<p align="center">
-  <a href="https://linkedin.com/in/brent-rodriguez">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brent-rodriguez)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
@@ -53,6 +35,12 @@ Status: Shifting Security Left & Engineering High-Availability Systems
 
 Engineering secure-by-design solutions through automation, infrastructure hardening, and intelligent threat detection.
 
+| Project | Description | Tech Stack / Tools | Links |
+| --- | --- | --- | --- |
+| **🛡️ Automated DevSecOps Pipeline** | Automated security scanning pipeline with vulnerability gating, continuous integration, and actionable security reports. | `Python` `Docker` `GitHub Actions` `SAST/DAST` | [View Repo →](https://github.com/your-username/devsecops-pipeline) |
+| **🔐 Zero-Trust Microservices** | Hardened microservices architecture featuring zero-trust network policies, infrastructure as code, and encrypted secrets management. | `TypeScript` `Kubernetes` `Terraform` `Vault` | [View Repo →](https://github.com/your-username/zero-trust-microservices) |
+| **🔎 Threat Hunting Dashboard** | Security monitoring and log aggregation platform designed to identify anomalous behavior and support threat investigations. | `Go` `Elasticsearch` `React` `Tailwind CSS` | [View Repo →](https://github.com/your-username/threat-hunting-dashboard) |
+
 ---
 
 ## 🧰 Technical Arsenal
@@ -77,10 +65,10 @@ Engineering secure-by-design solutions through automation, infrastructure harden
 
 ---
 
-## 📊 GitHub Activity
-
----
-
-### ⚡ Secure. Automate. Engineer. Repeat.
+### ⚡ **Secure. Automate. Engineer. Repeat.**
 
 *Building resilient software. Securing the pipeline. Defending the infrastructure.*
+
+```
+
+```
