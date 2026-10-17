@@ -1,21 +1,14 @@
 <div align="center">
 
-<!-- ASCII Cyber Banner Header -->
-<pre align="center">
- █▄ ▄█  █▀▀▀▀█ █ █    █ ▄▀▀▀▄ █▀▀▀█ █▀▀▀  █▀▀▀ █ █ █ █▀▀▀  █   █
- █ ▀ █  █ █▀▀█ █  █  █  █   █ █  ▄▀ █▀▀▀  ▀▀▀▄ █▀▀█ █ █▀▀  █   █
- █   █  █▄▄▄▄█ █   ▀▀   ▀▄▄▄▀ █▄▄▄█ █▄▄▄  ▄▄▄▀ █  █ █ █▄▄▄ █▄▄▄█
-</pre>
-
 # ⚡ Brent Rodriguez
 
 ### **Software Engineer • Cybersecurity Specialist • DevSecOps Architect**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&lines=Building+Resilient+%26+Scalable+Software;Shifting+Security+Left+in+the+SDLC;Automating+DevSecOps+%26+Cloud+Security;Hardening+Infrastructure+%26+Threat+Hunting" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Building+Resilient+%26+Scalable+Software;Shifting+Security+Left+in+the+SDLC;Automating+DevSecOps+%26+Cloud+Security;Hardening+Infrastructure+%26+Threat+Hunting" alt="Typing SVG" />
 </p>
 
-<!-- Social & Contact Pill Badges -->
+<!-- Social & Contact Badges -->
 <p align="center">
   <a href="https://linkedin.com/in/brent-rodriguez">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
