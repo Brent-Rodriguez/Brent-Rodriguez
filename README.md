@@ -1,3 +1,6 @@
+Here is the restructured, clean Markdown code containing **all sections** (Header, Mission Control, Featured Projects Table with HTML, Technical Arsenal, Engineering Philosophy, GitHub Activity, and Footer) in a single block:
+
+```markdown
 <div align="center">
 
 # ⚡ Brent S. Rodriguez
@@ -40,4 +43,44 @@ Focus Areas:
   - Threat Detection & Vulnerability Management
 
 Mission: Build secure, scalable, and resilient systems.
-Current Status: Shifting Security Left & Engineering High-Availability Systems
+Status: Shifting Security Left & Engineering High-Availability Systems
+
+```
+
+---
+
+## 🚀 Featured Projects
+
+Engineering secure-by-design solutions through automation, infrastructure hardening, and intelligent threat detection.
+
+---
+
+## 🧰 Technical Arsenal
+
+| Domain | Technologies & Practices |
+| --- | --- |
+| **Languages** | Python, TypeScript, Go |
+| **DevSecOps** | GitHub Actions, CI/CD, SAST, DAST, Vulnerability Gating |
+| **Cloud & Infrastructure** | Docker, Kubernetes, Terraform, Infrastructure as Code |
+| **Security Engineering** | Secure SDLC, Zero-Trust Architecture, Secrets Management, Infrastructure Hardening |
+| **Threat Detection** | Elasticsearch, Log Aggregation, Behavioral Anomaly Detection |
+| **Frontend Engineering** | React, Tailwind CSS |
+
+---
+
+## 🎯 Engineering Philosophy
+
+* **Security by Design:** Integrate security controls throughout the software development lifecycle.
+* **Automation First:** Eliminate repetitive manual work through reliable, repeatable pipelines.
+* **Defense in Depth:** Build layered security controls across applications, networks, and infrastructure.
+* **Continuous Improvement:** Use testing, monitoring, and threat intelligence to strengthen system resilience.
+
+---
+
+## 📊 GitHub Activity
+
+---
+
+### ⚡ Secure. Automate. Engineer. Repeat.
+
+*Building resilient software. Securing the pipeline. Defending the infrastructure.*
